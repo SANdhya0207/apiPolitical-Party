@@ -1,0 +1,68 @@
+[
+      {
+            "id" : 1,
+            "name" : "All India Trinamool Congress",
+            "symbol" : "Flowers & Grass ",
+            "address" : "0-B, Harish Chatterjee Street, Kolkata-700026 (West Bengal)",
+            "leader" : "https://en.wikipedia.org/wiki/Mamata_Banerjee",
+            "url":"https://en.wikipedia.org/wiki/File:All_India_Trinamool_Congress_current_logo.svg"
+
+      },
+      {
+            "id" : 2,
+            "name" : "Bahujan Samaj Party",
+            "symbol" : "Elephant",
+            "address" : "4, Gurudwara Rakabganj Road, New Delhi – 110001",
+            "leader" : "https://en.wikipedia.org/wiki/Mayawati",
+            "url":"https://en.wikipedia.org/wiki/File:Elephant_Bahujan_Samaj_Party.svg"
+      },
+      {
+            "id" : 3,
+            "name" : "Bharatiya Janata Party",
+            "symbol" : "Lotus",
+            "address" : "6-A, Deen Dayal Upadhyaya Marg, New Delhi – 110002",
+            "leader" : "https://en.wikipedia.org/wiki/J._P._Nadda",
+            "url" : "https://cbseguides.com/wp-content/uploads/2022/09/POLITICAL-PARTIES-BJP-SYMBOL-Class-10th-291x300.png"
+      },
+      {
+            "id" : 4,
+            "name" : "Communist Party of India",
+            "symbol" : "Ears of Corn and Sickle",
+            "address" : "Ajoy Bhawan, Kotla Marg, New Delhi – 110002",
+            "leader" : "https://en.wikipedia.org/wiki/D._Raja",
+            "url" : "https://cbseguides.com/wp-content/uploads/2022/09/political-aprties-class-10th-civics.png"
+      },
+      {
+            "id" : 5,
+            "name" : "Communist Party of India (Marxist)",
+            "symbol" : "Hammer, Sickle and Star",
+            "address" : "A.K.Gopalan Bhawan, 27-29, Bhai Vir Singh Marg (Gole Market), New Delhi - 110001",
+            "leader" : "https://en.wikipedia.org/wiki/Sitaram_Yechury",
+            "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Hammer_Sickle_and_Star.png"
+      },
+      {
+            "id" : 6,
+            "name" : "Indian National Congress ",
+            "symbol" : "Hand",
+            "address" : "24,Akbar Road, New Delhi – 110011",
+            "leader" : "https://en.wikipedia.org/wiki/Mallikarjun_Kharge",
+            "url" : "https://cbseguides.com/wp-content/uploads/2022/09/POLITICAL-PARTIES-CLASS-10TH.png"
+      },
+      {
+            "id" : 7,
+            "name" : "Nationalist Congress Party",
+            "symbol" : "Clock",
+            "address" : "Bungalow No.-1, Canning Lane (Ravi Shanker Shukla Lane), Near Ferozeshah Road, New Delhi-110001",
+            "leader" : "https://en.wikipedia.org/wiki/Sharad_Pawar",
+            "url":"https://en.wikipedia.org/wiki/File:Clock_symbol_of_NCP.png"
+      },
+      {
+            "id" : 8,
+            "name" : "National People’s Party",
+            "symbol" : "Book",
+            "address" : "Plot No.90A, Lachaumiere District, East Khasi Hills District, Shillong-793001",
+            "leader" : "https://en.wikipedia.org/wiki/Conrad_Sangma",
+            "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Book.svg"
+      }
+      
+]
