@@ -1,7 +1,8 @@
 const express = require ("express");
 const cors = require ("cors")
 const app = express();
-const data = require("./api.json")
+const centralData = require("./centralApi.json");
+const stateData = require("./stateApi.json");
 
 app.use(express.json());
 app.use(cors());
@@ -13,8 +14,12 @@ app.get('/', (req,res) => {
       res.send("Api is running");
 })
 
-app.get('/api', (req,res) => {
-      res.send(data);
+app.get('/centralApi', (req,res) => {
+      res.send(centralData);
+})
+
+app.get('/stateApi', (req,res) => {
+      res.send(stateData);
 })
 
 app.listen(Port, () => {
