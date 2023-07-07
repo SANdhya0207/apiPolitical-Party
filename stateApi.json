@@ -1,0 +1,303 @@
+[
+      {        
+        "id": "1",
+        "name": "Andhra Pradesh",
+        "cities": [
+          
+          { 
+            "name": "Telangana Rashtra Samithi",
+            "symbol": "Car",
+            "url":"",
+            "address": "House No. 8-2-220/110/1/3,Road No.14, Banjara Hills, Hyderabad,Andhra Pradesh-500034",
+            "leader":""
+          },
+          { 
+            "name": "Telugu Desam",
+           "symbol": "Bicycle",
+           "url":"",
+           "address": "Telugu Desam Party Office, N.T.R. Bhavan,Road No.2, Banjara Hills, Hyderabad-500033.(Andhra Pradesh)",
+           "leader":""
+           },
+           { 
+            "name": "Yuvajana Sramika Rythu Congress Party",
+            "url":"",
+            "symbol": "Ceiling Fan",
+            "address": "House No. 8-2-220/110/1/3,Road No.14, Banjara Hills, Hyderabad,Andhra Pradesh-500034",
+            "leader":""
+          }
+        ]
+        
+      },
+      {        
+        "id": "15",
+        "name": "Mizoram",
+        "cities": [
+          
+          { 
+            "name": "Mizo National Front ",
+            "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Election_Symbol_Star.svg/75px-Election_Symbol_Star.svg.png",
+            "symbol": "Star",
+            "address": "General Headquarters, Zarkawt, Aizawl (Mizoram)-796001.",
+            "leader":"https://en.wikipedia.org/wiki/Zoramthanga"
+          },
+          { 
+            "name": "Mizoram People’s Conference",
+            "url":"",
+            "symbol": "Electric Bulb",
+            "address": "General Headquarters, Treasury Square, Aizawl-796001 (Mizoram)",
+            "leader":""
+           },
+           { 
+            "name": "Zoram Nationalist Party",
+            "symbol": "Sun (without rays)",
+            "address": "General Headquarters, Treasury Square, Aizawl-796001 (Mizoram)."
+          }
+        ]
+      },
+      {
+            "id" :"16",
+            "name" : "Nagaland",
+            "cities":[
+                  {
+                        "name" : "Naga Peoples Front ",
+                        "symbol" : "Cock",
+                        "address" : "Post Box No.565, Kohima 797001, Nagaland",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Cock.png"
+                  },
+                  {
+                        "name" : "Nationalist Democratic Progressive Party",
+                        "symbol" : "Globe",
+                        "address" : "House No. 155(1), Ward No. 4,Chumukedima, Dimapur, Nagaland – 797103",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Crown.png",
+                        "leader":"https://en.wikipedia.org/wiki/Neiphiu_Rio"
+                  }
+
+            ]
+      },
+      {
+            "id" :"17",
+            "name" : "N.C.T. of Delhi",
+            "cities":[
+                  {
+                        "name" : "Aam Aadmi Party ",
+                        "symbol" : "Broom",
+                        "address" : "206, Rause Avenue, DDU Marg, New Delhi – 110002",
+                        "url":"https://en.wikipedia.org/wiki/File:AAP_Symbol.png",
+                        "leader":"https://en.wikipedia.org/wiki/Arvind_Kejriwal"
+                  }
+            ]
+      },
+      {
+            "id" :"18",
+            "name" : "Odisha",
+            "cities":[
+                  {
+                        "name" : "Biju Janata Dal",
+                        "symbol" : "Conch",
+                        "address" : "Naveen Nivas, Aerodrome Gate, Bhubaneswar-751009 (Odisha).",
+                        "url":"https://en.wikipedia.org/wiki/File:Biju_Janata_Dal_Flag.jpg",
+                        "leader":"https://en.wikipedia.org/wiki/Naveen_Patnaik"
+                  }
+            ]
+      },
+      {
+            "id" :"19",
+            "name" : "Puducherry ",
+            "cities":[
+                  {
+                        "name" : "All India Anna Dravida Munnetra Kazhagam",
+                        "symbol" : "Two Leaves",
+                        "address" : "275, Avvai Shanmugam Salai, Royapettah, Chennai-600014 (Tamil Nadu)",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_election_symbol_two_leaves.svg",
+                        "leader":"https://en.wikipedia.org/wiki/Edappadi_K._Palaniswami"
+                  },
+                  {
+                        "name" : "All India N.R. Congress",
+                        "symbol" : "Jug",
+                        "address" : "65/6, East Coast Road, (Next to Badmavathi Petrol Bunk), Pakkamudaiyanpet, Puducherry-605008",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Jug.svg",
+                        "leader":"https://en.wikipedia.org/wiki/N._Rangaswamy"
+                  },
+                  {
+                        "name" : "Dravida Munnetra Kazhagam",
+                        "symbol" : "Rising Sun",
+                        "address" : "‘Anna Arivalayam’ 268-269, Anna Salai, Teynampet, Chennai-600018 (Tamil Nadu).",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_election_symbol_rising_sun.svg",
+                        "leader":"https://en.wikipedia.org/wiki/M._K._Stalin"
+                  },
+                  {
+                        "name" : "Pattali Makkal Katchi",
+                        "symbol" : "Mango ",
+                        "address" : "63, Nattu Muthu Naiken Street, Vanniya Teynampet, Chennai-600018 (Tamil Nadu).",
+                        "url":"",
+                        "leader":""
+                  }
+            ]
+      },
+      {
+            "id" :"20",
+            "name" : "Punjab ",
+            "cities":[
+                  {
+                        "name" : "Shiromani Akali Dal",
+                        "symbol" : "Scales",
+                        "address" : "Building No.6, Sector-28 B, Madhya Marg, Chandigarh –160028",
+                        "url":"https://en.wikipedia.org/wiki/File:Shiromani_Akali_Dal_symbol.svg",
+                        "leader":"https://en.wikipedia.org/wiki/Sukhbir_Singh_Badal"
+                  },
+                  {
+                        "name" : "Aam Aadmi Party ",
+                        "symbol" : "Broom",
+                        "address" : "206, Rause Avenue, DDU Marg, New Delhi – 110002",
+                        "url":"https://en.wikipedia.org/wiki/File:AAP_Symbol.png",
+                        "leader":"https://en.wikipedia.org/wiki/File:Arvind_Kejriwal_smiling_(cropped).jpg"
+                  }
+            ]
+      },
+      {
+            "id" :"21",
+            "name" : "Rajasthan",
+            "cities":[
+                  {
+                        "name" : "Rashtriya Loktantrik Party",
+                        "symbol" : "Bottle",
+                        "address" : "Plot No. 26-27, Out of Khasra No. 170/151, Teja Colony,Near Sheetla Mata Temple, Manasar, District- Nagaur, Rajasthan 341001.",
+                        "url":"https://en.wikipedia.org/wiki/File:Water_bottle_RLP_election_symbol.svg",
+                        "leader":"https://en.wikipedia.org/wiki/Hanuman_Beniwal"
+                  }
+            ]
+      },
+      {
+            "id" :"22",
+            "name" : "",
+            "cities":[
+                  {
+                        "name" : " Sikkim Democratic Front",
+                        "symbol" : "Umbrella",
+                        "address" : "Upper Deorali, Gangtok, East Sikkim-737101. ",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Umberlla.png",
+                        "leader":"https://en.wikipedia.org/wiki/Pawan_Kumar_Chamling"
+                  },
+                  {
+                        "name" : "Sikkim Krantikari Morcha",
+                        "symbol" : "Table Lamp",
+                        "address" : "Convoy Ground, P.O.-Tadong, Gangtok, East Sikkim, Sikkim-73710",
+                        "url":"https://en.wikipedia.org/wiki/File:Symbol_SKM.png",
+                        "leader":"https://en.wikipedia.org/wiki/Prem_Singh_Tamang"
+                  }
+            ]
+      },
+      {
+            "id" :"23",
+            "name" : "Tamil Nadu",
+            "cities":[
+                  {
+                        "name" : " All India Anna Dravida Munnetra Kazhagam",
+                        "symbol" : "Two leaves",
+                        "address" : "275,Avvai Shanmugam Salai, Royapettah, Chennai-600014 (Tamil Nadu).",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_election_symbol_two_leaves.svg",
+                        "leader":"https://en.wikipedia.org/wiki/Edappadi_K._Palaniswami"
+                  },
+                  {
+                        "name" : "Dravida Munnetra Kazhagam",
+                        "symbol" : "Rising Sun",
+                        "address" : "‘Anna Arivalayam’ 268-269, Anna Salai, Teynampet, Chennai-600018(Tamil Nadu)",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_election_symbol_rising_sun.svg",
+                        "leader":"https://en.wikipedia.org/wiki/M._K._Stalin"
+                  },
+                  {
+                        "name" : " Desiya Murpokku Dravida Kazhagam",
+                        "symbol" : "Nagara",
+                        "address" : "125/7, JawaharlalNehru Salai, (100 Ft. Road),Koyambedu, Chennai-600 107,Tamil Nadu.",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Nagara.svg",
+                        "leader":"https://en.wikipedia.org/wiki/Vijayakanth"
+                  }
+            ]
+      },
+      {
+            "id" :"24",
+            "name" : "Telangana",
+            "cities":[
+                  {
+                        "name" : "All India Majlis-Ettehadul Muslimeen",
+                        "symbol" : "Kite ",
+                        "address" : "Darussalam Board, Hyderabad (Telangana)-500001.",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Kite.svg",
+                        "leader":"https://en.wikipedia.org/wiki/File:Asaduddin.jpg"
+                  },
+                  {
+                        "name" : "Telangana Rashtra Samith",
+                        "symbol" : "Car",
+                        "address" : "House No. 8-2-220/110/1/3, Road No.14, Banjara Hills,Hyderabad, Andhra Pradesh.",
+                        "url":"",
+                        "leader":""
+                  },
+                  {
+                        "name" : "Telugu Desam",
+                        "symbol" : "Bicycle",
+                        "address" : "Telugu Desam Office, N.T.R. Bhavan,Road No.2, Banjara Hills,Hyderabad-500033 (Andhra Pradesh).",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Cycle.png",
+                        "leader":"https://en.wikipedia.org/wiki/N._Chandrababu_Naidu"
+                  },
+                  {
+                        "name" : "Yuvajana Sramika Rythu Congress Party",
+                        "symbol" : "Ceiling Fan",
+                        "address" : "H.No.8-2-269/S/98, Sagar Society, Road No. 2, Banjara Hills, Hyderabad-500034, Andhra Pradesh.",
+                        "url":"",
+                        "leader":""
+                  }
+            ]
+      },{
+            "id" :"25",
+            "name" : "Tripura",
+            "cities":[
+                  {
+                        "name" : "Indigenous People’s Front of Tripura",
+                        "symbol" : "Dao",
+                        "address" : "Old Kali Bari Road,Krishnanagar, Agartala 799001,Tripura",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_symbol_Dao.svg",
+                        "leader":""
+                  }
+            ]
+      },
+      {
+            "id" :"26",
+            "name" : "Uttar Pradesh",
+            "cities":[
+                  {
+                        "name" : "Rashtriya Lok Dal",
+                        "symbol" : "Hand Pump",
+                        "address" : "406, V.P. House, Rafi Marg, New Delhi-110001.",
+                        "url":"",
+                        "leader":""
+                  },
+                  {
+                        "name" : "Samajwadi Party ",
+                        "symbol" : "Bicycle",
+                        "address" : "18, Copernicus Lane, New Delhi-110001. ",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Cycle.png",
+                        "leader":"https://en.wikipedia.org/wiki/Akhilesh_Yadav"
+                  }
+            ]
+      },
+      {
+            "id" :"27",
+            "name" : "West Bengal",
+            "cities":[
+                  {
+                        "name" : " All India Forward Bloc",
+                        "symbol" : "Lion",
+                        "address" : "Netaji Bhavan, T-2235/2, Ashok Nagar, Faiz Road, Karol Bagh, New Delhi – 110005",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Lion.svg",
+                        "leader":"https://www.electwise.in/politician/debabrata-biswas/"
+                  },
+                  {
+                        "name" : "Revolutionary Socialist Party",
+                        "symbol" : "Spade &Stoker",
+                        "address" : "37 Ripon Street (Muzaffar Ahmed Sarani), Kolkata 700016 (West Bengal).",
+                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Spade_and_Stoker.png",
+                        "leader":"https://www.manoramaonline.com/news/india/2022/11/14/manoj-bhattacharya-again-national-general-secretary.html"
+                  }
+            ]
+      }
+]
