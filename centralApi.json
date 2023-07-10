@@ -4,8 +4,8 @@
             "name" : "All India Trinamool Congress",
             "symbol" : "Flowers & Grass ",
             "address" : "0-B, Harish Chatterjee Street, Kolkata-700026 (West Bengal)",
-            "leader" : "https://en.wikipedia.org/wiki/Mamata_Banerjee",
-            "url":"https://en.wikipedia.org/wiki/File:All_India_Trinamool_Congress_current_logo.svg"
+            "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Official_portrait_of_Mamata_Banerjee.jpg/375px-Official_portrait_of_Mamata_Banerjee.jpg,
+            "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/All_India_Trinamool_Congress_current_logo.svg/768px-All_India_Trinamool_Congress_current_logo.svg.png"
 
       },
       {
@@ -13,15 +13,15 @@
             "name" : "Bahujan Samaj Party",
             "symbol" : "Elephant",
             "address" : "4, Gurudwara Rakabganj Road, New Delhi – 110001",
-            "leader" : "https://en.wikipedia.org/wiki/Mayawati",
-            "url":"https://en.wikipedia.org/wiki/File:Elephant_Bahujan_Samaj_Party.svg"
+            "leader" : "https://upload.wikimedia.org/wikipedia/commons/5/54/Mayawati.jpg",
+            "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Elephant_Bahujan_Samaj_Party.svg/750px-Elephant_Bahujan_Samaj_Party.svg.png"
       },
       {
             "id" : 3,
             "name" : "Bharatiya Janata Party",
             "symbol" : "Lotus",
             "address" : "6-A, Deen Dayal Upadhyaya Marg, New Delhi – 110002",
-            "leader" : "https://en.wikipedia.org/wiki/J._P._Nadda",
+            "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/National_president_of_BJP%2C_J_P_Nadda_%28cropped%29.jpg/330px-National_president_of_BJP%2C_J_P_Nadda_%28cropped%29.jpg",
             "url" : "https://cbseguides.com/wp-content/uploads/2022/09/POLITICAL-PARTIES-BJP-SYMBOL-Class-10th-291x300.png"
       },
       {
@@ -29,7 +29,7 @@
             "name" : "Communist Party of India",
             "symbol" : "Ears of Corn and Sickle",
             "address" : "Ajoy Bhawan, Kotla Marg, New Delhi – 110002",
-            "leader" : "https://en.wikipedia.org/wiki/D._Raja",
+            "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/D_Raja.jpg/330px-D_Raja.jpg",
             "url" : "https://cbseguides.com/wp-content/uploads/2022/09/political-aprties-class-10th-civics.png"
       },
       {
@@ -37,15 +37,15 @@
             "name" : "Communist Party of India (Marxist)",
             "symbol" : "Hammer, Sickle and Star",
             "address" : "A.K.Gopalan Bhawan, 27-29, Bhai Vir Singh Marg (Gole Market), New Delhi - 110001",
-            "leader" : "https://en.wikipedia.org/wiki/Sitaram_Yechury",
-            "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Hammer_Sickle_and_Star.png"
+            "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sitaram_Yechury_06918.jpg/330px-Sitaram_Yechury_06918.jpg",
+            "url":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Indian_Election_Symbol_Hammer_Sickle_and_Star.png"
       },
       {
             "id" : 6,
             "name" : "Indian National Congress ",
             "symbol" : "Hand",
             "address" : "24,Akbar Road, New Delhi – 110011",
-            "leader" : "https://en.wikipedia.org/wiki/Mallikarjun_Kharge",
+            "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways%2C_in_New_Delhi_on_June_19%2C_2013_%28cropped%29_2.jpg/330px-Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways%2C_in_New_Delhi_on_June_19%2C_2013_%28cropped%29_2.jpg",
             "url" : "https://cbseguides.com/wp-content/uploads/2022/09/POLITICAL-PARTIES-CLASS-10TH.png"
       },
       {
@@ -53,16 +53,16 @@
             "name" : "Nationalist Congress Party",
             "symbol" : "Clock",
             "address" : "Bungalow No.-1, Canning Lane (Ravi Shanker Shukla Lane), Near Ferozeshah Road, New Delhi-110001",
-            "leader" : "https://en.wikipedia.org/wiki/Sharad_Pawar",
-            "url":"https://en.wikipedia.org/wiki/File:Clock_symbol_of_NCP.png"
+            "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/The_Union_Minister_for_Agriculture_and_Food_Processing_Industries%2C_Shri_Sharad_Pawar_addressing_at_the_launch_of_the_Sahana_Group%E2%80%99s_New_Marathi_Channel_%E2%80%9CJai_Maharashtra%E2%80%9D%2C_in_Mumbai_on_April_27%2C_2013_%28cropped%29.jpg/330px-thumbnail.jpg",
+            "url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Clock_symbol_of_NCP.png"
       },
       {
             "id" : 8,
             "name" : "National People’s Party",
             "symbol" : "Book",
             "address" : "Plot No.90A, Lachaumiere District, East Khasi Hills District, Shillong-793001",
-            "leader" : "https://en.wikipedia.org/wiki/Conrad_Sangma",
-            "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Book.svg"
+            "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Conrad_Sangma.png/330px-Conrad_Sangma.png",
+            "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Indian_Election_Symbol_Book.svg/783px-Indian_Election_Symbol_Book.svg.png"
       }
       
 ]
