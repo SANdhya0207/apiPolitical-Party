@@ -616,15 +616,15 @@
                         "name" : "Rashtriya Lok Dal",
                         "symbol" : "Hand Pump",
                         "address" : "406, V.P. House, Rafi Marg, New Delhi-110001.",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Hand_Pump.png",
-                        "leader":"https://en.wikipedia.org/wiki/Jayant_Singh"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Indian_Election_Symbol_Hand_Pump.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/0/05/Chaudhary_Jayant_Singh.jpg"
                   },
                   {
                         "name" : "Samajwadi Party ",
                         "symbol" : "Bicycle",
                         "address" : "18, Copernicus Lane, New Delhi-110001. ",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Cycle.png",
-                        "leader":"https://en.wikipedia.org/wiki/Akhilesh_Yadav"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Indian_Election_Symbol_Cycle.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Akhilesh_Yadav_CMO_Cropped.jpg/330px-Akhilesh_Yadav_CMO_Cropped.jpg"
                   }
             ]
       },
@@ -636,15 +636,15 @@
                         "name" : " All India Forward Bloc",
                         "symbol" : "Lion",
                         "address" : "Netaji Bhavan, T-2235/2, Ashok Nagar, Faiz Road, Karol Bagh, New Delhi – 110005",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Lion.svg",
-                        "leader":"https://www.electwise.in/politician/debabrata-biswas/"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Indian_Election_Symbol_Lion.svg/1184px-Indian_Election_Symbol_Lion.svg.png",
+                        "leader":"https://www.electwise.in/media/images/people/photo/Debabrata_Biswas_.jpg"
                   },
                   {
                         "name" : "Revolutionary Socialist Party",
                         "symbol" : "Spade &Stoker",
                         "address" : "37 Ripon Street (Muzaffar Ahmed Sarani), Kolkata 700016 (West Bengal).",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Spade_and_Stoker.png",
-                        "leader":"https://www.manoramaonline.com/news/india/2022/11/14/manoj-bhattacharya-again-national-general-secretary.html"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Indian_Election_Symbol_Spade_and_Stoker.png",
+                        "leader":""
                   }
             ]
       },
@@ -655,13 +655,13 @@
                   {
                         "name" : "Gondwana Ganatantra Party",
                         "symbol" :"Saw",
-                        "url" : "https://en.wikipedia.org/wiki/Gondwana_Ganatantra_Party"
+                        "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saw_election_symbol.png/300px-Saw_election_symbol.png"
                   },
                   {
                         "name" : "Bharatiya Janata Party",
                         "symbol" : "Lotus",
                         "address" : "6-A, Deen Dayal Upadhyaya Marg, New Delhi – 110002",
-                        "leader" : "https://en.wikipedia.org/wiki/J._P._Nadda",
+                        "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/National_president_of_BJP%2C_J_P_Nadda_%28cropped%29.jpg/330px-National_president_of_BJP%2C_J_P_Nadda_%28cropped%29.jpg",
                         "url" : "https://cbseguides.com/wp-content/uploads/2022/09/POLITICAL-PARTIES-BJP-SYMBOL-Class-10th-291x300.png"
                   }
             ]
@@ -675,20 +675,20 @@
                         "symbol" : "A Lady Farmer carrying Paddy on her head",
                         "address": "5, Safdarjung Lane, New Delhi – 110003",
                         "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Indian_election_symbol_female_farmer.svg/800px-Indian_election_symbol_female_farmer.svg.png",
-                        "leader" : "https://en.wikipedia.org/wiki/H._D._Deve_Gowda"
+                        "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/H._D._Deve_Gowda_BNC.jpg/330px-H._D._Deve_Gowda_BNC.jpg"
                   },
                   {
                         "name" : "Bharatiya Janata Party",
                         "symbol" : "Lotus",
                         "address" : "6-A, Deen Dayal Upadhyaya Marg, New Delhi – 110002",
-                        "leader" : "https://en.wikipedia.org/wiki/J._P._Nadda",
+                        "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/National_president_of_BJP%2C_J_P_Nadda_%28cropped%29.jpg/330px-National_president_of_BJP%2C_J_P_Nadda_%28cropped%29.jpg",
                         "url" : "https://cbseguides.com/wp-content/uploads/2022/09/POLITICAL-PARTIES-BJP-SYMBOL-Class-10th-291x300.png"
                   },
                   {
                         "name" : "Indian National Congress ",
                         "symbol" : "Hand",
                         "address" : "24,Akbar Road, New Delhi – 110011",
-                        "leader" : "https://en.wikipedia.org/wiki/Mallikarjun_Kharge",
+                        "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways%2C_in_New_Delhi_on_June_19%2C_2013_%28cropped%29_2.jpg/330px-Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways%2C_in_New_Delhi_on_June_19%2C_2013_%28cropped%29_2.jpg",
                         "url" : "https://cbseguides.com/wp-content/uploads/2022/09/POLITICAL-PARTIES-CLASS-10TH.png"
                   }
             ]
@@ -701,14 +701,14 @@
                   "name" : "Indian National Congress ",
                   "symbol" : "Hand",
                   "address" : "24,Akbar Road, New Delhi – 110011",
-                  "leader" : "https://en.wikipedia.org/wiki/Mallikarjun_Kharge",
+                  "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways%2C_in_New_Delhi_on_June_19%2C_2013_%28cropped%29_2.jpg/330px-Shri_Mallikarjun_Kharge_takes_over_the_charge_of_Union_Minister_for_Railways%2C_in_New_Delhi_on_June_19%2C_2013_%28cropped%29_2.jpg",
                   "url" : "https://cbseguides.com/wp-content/uploads/2022/09/POLITICAL-PARTIES-CLASS-10TH.png"
                   },
                   {
                         "name" : "Bharatiya Janata Party",
                         "symbol" : "Lotus",
                         "address" : "6-A, Deen Dayal Upadhyaya Marg, New Delhi – 110002",
-                        "leader" : "https://en.wikipedia.org/wiki/J._P._Nadda",
+                        "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/National_president_of_BJP%2C_J_P_Nadda_%28cropped%29.jpg/330px-National_president_of_BJP%2C_J_P_Nadda_%28cropped%29.jpg",
                         "url" : "https://cbseguides.com/wp-content/uploads/2022/09/POLITICAL-PARTIES-BJP-SYMBOL-Class-10th-291x300.png"
                   }
             ]
@@ -721,7 +721,7 @@
                   "name" : "National Democratic Alliance",
                   "symbol" : "Lotus",
                   "address" : "6-A, Deen Dayal Upadhyaya Marg, New Delhi – 110002",
-                  "leader" : "https://en.wikipedia.org/wiki/Amit_Shah"
+                  "leader" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs%2C_in_New_Delhi_on_June_01%2C_2019.jpg/330px-Shri_Amit_Shah_taking_charge_as_the_Union_Minister_for_Home_Affairs%2C_in_New_Delhi_on_June_01%2C_2019.jpg"
                   },
                   {
                         "name" : "Bharatiya Janata Party",
