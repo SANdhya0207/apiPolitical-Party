@@ -1,5 +1,5 @@
 [
-      {        
+            {        
             "id": "1",
             "name": "Andhra Pradesh",
             "cities": [
@@ -71,7 +71,7 @@
                 { "name": "Asom Gana Parishad",
                  "symbol": "Elephant",
                   "address": "Gopinath Bordoloi Road,Guwahati- 781001 (Assam)",
-                  "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Elephant.png"
+                  "url":"https://upload.wikimedia.org/wikipedia/commons/9/98/Indian_Election_Symbol_Elephant.png"
                   ,
                   "leader":""
                  },
@@ -79,7 +79,7 @@
                  { "name": " Bodoland Peoples Front",
                  "symbol": "Nangol",
                   "address": "Head Office Kokrajhar, B.T.C., P.O.-Kokrajhar, Distt.Kokrajhar, Assam, Pin-783370",
-                  "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Indian_Election_Symbol_Elephant.png/75px-Indian_Election_Symbol_Elephant.png"
+                  "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Indian_Election_Symbol_Nangol.svg/1200px-Indian_Election_Symbol_Nangol.svg.png"
                   ,
                   "leader":""
                 },
@@ -108,9 +108,9 @@
                 { "name": "Lok Jan Shakti Party",
                  "symbol": "Bungalow",
                   "address": "12, Janpath, New Delhi – 110 011",
-                  "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Bungalow.png"
+                  "url":"https://upload.wikimedia.org/wikipedia/commons/2/20/Indian_Election_Symbol_Bungalow.png"
                   ,
-                  "leader":"https://en.wikipedia.org/wiki/Chirag_Paswan"
+                  "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chirag_Paswan_Official_Portrait.jpg/330px-Chirag_Paswan_Official_Portrait.jpg"
                  },
                   
                  { "name": "Rashtriya Janata Dal ",
@@ -185,7 +185,7 @@
                   "address": "No.80, Sector – 9, Chandigarh – 160009",
                   "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/INLD1.svg/75px-INLD1.svg.png"
                   ,
-                  "leader":"https://en.wikipedia.org/wiki/File:Indian_National_Lok_Dal_Flag.svg"
+                  "leader":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Om_Prakash_Chautala.jpg"
                 }
               ]
               
@@ -207,14 +207,14 @@
                   "address": "17, V.P. House, Rafi Marg, New Delhi-110001",
                   "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Indian_Election_Symbol_Cycle.png/75px-Indian_Election_Symbol_Cycle.png"
                   ,
-                  "leader":"https://en.wikipedia.org/wiki/Bhim_Singh_(politician)"
+                  "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Prof._Bhim_Singh_with_President_of_India_Kovind.jpg/404px-Prof._Bhim_Singh_with_President_of_India_Kovind.jpgv"
                 },
                 { "name": "Jammu and Kashmir Peoples Democratic Party",
                  "symbol": "Ink Pot & Pen",
                   "address": "2-Emporium Lane, Residency Road, Srinagar-190001",
                   "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Indian_Election_Symbol_Ink_Pot_and_Pen.png/75px-Indian_Election_Symbol_Ink_Pot_and_Pen.png"
                   ,
-                  "leader":"https://en.wikipedia.org/wiki/Mehbooba_Mufti"
+                  "leader":"https://upload.wikimedia.org/wikipedia/commons/5/58/Mehbooba_Mufti_Ji.jpg"
                 }
               ]
               
@@ -366,7 +366,7 @@
                 { "name": "People's Democratic Front",
                 "symbol": "Candles",
                 "address": "H.No.-7/63, Lachuamiere, Shilong, Meghalaya-793001",
-                 "url":"https://en.bharatpedia.org/wiki/File:Candle_-_Election_Symbol.png"
+                 "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Candle_-_Election_Symbol.png/600px-Candle_-_Election_Symbol.png"
                  ,
                   "leader":""
                 }
@@ -384,7 +384,7 @@
             "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Election_Symbol_Star.svg/75px-Election_Symbol_Star.svg.png",
             "symbol": "Star",
             "address": "General Headquarters, Zarkawt, Aizawl (Mizoram)-796001.",
-            "leader":"https://en.wikipedia.org/wiki/Zoramthanga"
+            "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zoramthanga_in_2008.jpg/330px-Zoramthanga_in_2008.jpg"
           },
           { 
             "name": "Mizoram People’s Conference",
@@ -397,7 +397,7 @@
             "name": "Zoram Nationalist Party",
             "symbol": "Sun (without rays)",
             "address": "General Headquarters, Treasury Square, Aizawl-796001 (Mizoram).",
-            "url":"https://en.bharatpedia.org/wiki/File:Indian_Election_Symbol_Sun_without_Rays.png"
+            "url":"https://upload.wikimedia.org/wikipedia/commons/b/b0/Indian_Election_Symbol_Sun_without_Rays.png"
           }
         ]
       },
@@ -409,14 +409,14 @@
                         "name" : "Naga Peoples Front ",
                         "symbol" : "Cock",
                         "address" : "Post Box No.565, Kohima 797001, Nagaland",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Cock.png"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Indian_Election_Symbol_Cock.png"
                   },
                   {
                         "name" : "Nationalist Democratic Progressive Party",
                         "symbol" : "Globe",
                         "address" : "House No. 155(1), Ward No. 4,Chumukedima, Dimapur, Nagaland – 797103",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Crown.png",
-                        "leader":"https://en.wikipedia.org/wiki/Neiphiu_Rio"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/4/40/Indian_Election_Symbol_Crown.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/NeiphiuRio.jpg/330px-NeiphiuRio.jpg"
                   }
 
             ]
@@ -429,8 +429,8 @@
                         "name" : "Aam Aadmi Party ",
                         "symbol" : "Broom",
                         "address" : "206, Rause Avenue, DDU Marg, New Delhi – 110002",
-                        "url":"https://en.wikipedia.org/wiki/File:AAP_Symbol.png",
-                        "leader":"https://en.wikipedia.org/wiki/Arvind_Kejriwal"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/0/02/AAP_Symbol.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Arvind_Kejriwal_smiling_%28cropped%29.jpg/330px-Arvind_Kejriwal_smiling_%28cropped%29.jpg"
                   }
             ]
       },
@@ -442,8 +442,8 @@
                         "name" : "Biju Janata Dal",
                         "symbol" : "Conch",
                         "address" : "Naveen Nivas, Aerodrome Gate, Bhubaneswar-751009 (Odisha).",
-                        "url":"https://en.wikipedia.org/wiki/File:Biju_Janata_Dal_Flag.jpg",
-                        "leader":"https://en.wikipedia.org/wiki/Naveen_Patnaik"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Biju_Janata_Dal_Flag.jpg",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/5/55/NaveenPatnaik.jpg"
                   }
             ]
       },
@@ -455,29 +455,29 @@
                         "name" : "All India Anna Dravida Munnetra Kazhagam",
                         "symbol" : "Two Leaves",
                         "address" : "275, Avvai Shanmugam Salai, Royapettah, Chennai-600014 (Tamil Nadu)",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_election_symbol_two_leaves.svg",
-                        "leader":"https://en.wikipedia.org/wiki/Edappadi_K._Palaniswami"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Indian_election_symbol_two_leaves.svg/623px-Indian_election_symbol_two_leaves.svg.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/0/0d/EdappadiPalaniswami.jpg"
                   },
                   {
                         "name" : "All India N.R. Congress",
                         "symbol" : "Jug",
                         "address" : "65/6, East Coast Road, (Next to Badmavathi Petrol Bunk), Pakkamudaiyanpet, Puducherry-605008",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Jug.svg",
-                        "leader":"https://en.wikipedia.org/wiki/N._Rangaswamy"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indian_Election_Symbol_Jug.svg/674px-Indian_Election_Symbol_Jug.svg.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/N_Rangaswamy.jpg/330px-N_Rangaswamy.jpg"
                   },
                   {
                         "name" : "Dravida Munnetra Kazhagam",
                         "symbol" : "Rising Sun",
                         "address" : "‘Anna Arivalayam’ 268-269, Anna Salai, Teynampet, Chennai-600018 (Tamil Nadu).",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_election_symbol_rising_sun.svg",
-                        "leader":"https://en.wikipedia.org/wiki/M._K._Stalin"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Indian_election_symbol_rising_sun.svg/612px-Indian_election_symbol_rising_sun.svg.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hon_CM_Photo.jpg/330px-Hon_CM_Photo.jpg"
                   },
                   {
                         "name" : "Pattali Makkal Katchi",
                         "symbol" : "Mango ",
                         "address" : "63, Nattu Muthu Naiken Street, Vanniya Teynampet, Chennai-600018 (Tamil Nadu).",
-                        "url":"https://en.bharatpedia.org/wiki/File:Indian_Election_Symbol_Mango.png",
-                        "leader":"https://en.bharatpedia.org/wiki/File:Anbumani_Ramadoss_briefing_the_media_after_his_meeting_with_the_Health_Ministers_of_Polio_affected_states_Delhi,_UP,_Bihar,_Uttaranchal,_Jharkhand,_MP,_Haryana_and_Maharashtra,_in_New_Delhi_on_September_21,_2006.jpg"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Indian_Election_Symbol_Mango.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Anbumani_Ramadoss_briefing_the_media_after_his_meeting_with_the_Health_Ministers_of_Polio_affected_states_Delhi%2C_UP%2C_Bihar%2C_Uttaranchal%2C_Jharkhand%2C_MP%2C_Haryana_and_Maharashtra%2C_in_New_Delhi_on_September_21%2C_2006.jpg/800px-thumbnail.jpg"
                   }
             ]
       },
@@ -489,15 +489,15 @@
                         "name" : "Shiromani Akali Dal",
                         "symbol" : "Scales",
                         "address" : "Building No.6, Sector-28 B, Madhya Marg, Chandigarh –160028",
-                        "url":"https://en.wikipedia.org/wiki/File:Shiromani_Akali_Dal_symbol.svg",
-                        "leader":"https://en.wikipedia.org/wiki/Sukhbir_Singh_Badal"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Shiromani_Akali_Dal_symbol.svg/768px-Shiromani_Akali_Dal_symbol.svg.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sukhbir_Singh_Badal.jpg/330px-Sukhbir_Singh_Badal.jpg"
                   },
                   {
                         "name" : "Aam Aadmi Party ",
                         "symbol" : "Broom",
                         "address" : "206, Rause Avenue, DDU Marg, New Delhi – 110002",
-                        "url":"https://en.wikipedia.org/wiki/File:AAP_Symbol.png",
-                        "leader":"https://en.wikipedia.org/wiki/File:Arvind_Kejriwal_smiling_(cropped).jpg"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/0/02/AAP_Symbol.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Arvind_Kejriwal_smiling_%28cropped%29.jpg/330px-Arvind_Kejriwal_smiling_%28cropped%29.jpg"
                   }
             ]
       },
@@ -509,8 +509,8 @@
                         "name" : "Rashtriya Loktantrik Party",
                         "symbol" : "Bottle",
                         "address" : "Plot No. 26-27, Out of Khasra No. 170/151, Teja Colony,Near Sheetla Mata Temple, Manasar, District- Nagaur, Rajasthan 341001.",
-                        "url":"https://en.wikipedia.org/wiki/File:Water_bottle_RLP_election_symbol.svg",
-                        "leader":"https://en.wikipedia.org/wiki/Hanuman_Beniwal"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Water_bottle_RLP_election_symbol.svg/576px-Water_bottle_RLP_election_symbol.svg.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hanuman_Beniwal.jpg/330px-Hanuman_Beniwal.jpg"
                   }
             ]
       },
@@ -522,15 +522,15 @@
                         "name" : " Sikkim Democratic Front",
                         "symbol" : "Umbrella",
                         "address" : "Upper Deorali, Gangtok, East Sikkim-737101. ",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Umberlla.png",
-                        "leader":"https://en.wikipedia.org/wiki/Pawan_Kumar_Chamling"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/5/58/Indian_Election_Symbol_Umberlla.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PawanKumarChamling.jpg/330px-PawanKumarChamling.jpg"
                   },
                   {
                         "name" : "Sikkim Krantikari Morcha",
                         "symbol" : "Table Lamp",
                         "address" : "Convoy Ground, P.O.-Tadong, Gangtok, East Sikkim, Sikkim-73710",
-                        "url":"https://en.wikipedia.org/wiki/File:Symbol_SKM.png",
-                        "leader":"https://en.wikipedia.org/wiki/Prem_Singh_Tamang"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/d/da/Symbol_SKM.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/4/44/Prem_Singh_Tamang.jpg"
                   }
             ]
       },
@@ -542,22 +542,22 @@
                         "name" : " All India Anna Dravida Munnetra Kazhagam",
                         "symbol" : "Two leaves",
                         "address" : "275,Avvai Shanmugam Salai, Royapettah, Chennai-600014 (Tamil Nadu).",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_election_symbol_two_leaves.svg",
-                        "leader":"https://en.wikipedia.org/wiki/Edappadi_K._Palaniswami"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Indian_election_symbol_two_leaves.svg/623px-Indian_election_symbol_two_leaves.svg.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/0/0d/EdappadiPalaniswami.jpg"
                   },
                   {
                         "name" : "Dravida Munnetra Kazhagam",
                         "symbol" : "Rising Sun",
                         "address" : "‘Anna Arivalayam’ 268-269, Anna Salai, Teynampet, Chennai-600018(Tamil Nadu)",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_election_symbol_rising_sun.svg",
-                        "leader":"https://en.wikipedia.org/wiki/M._K._Stalin"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Indian_election_symbol_rising_sun.svg/612px-Indian_election_symbol_rising_sun.svg.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hon_CM_Photo.jpg/330px-Hon_CM_Photo.jpg"
                   },
                   {
                         "name" : " Desiya Murpokku Dravida Kazhagam",
                         "symbol" : "Nagara",
                         "address" : "125/7, JawaharlalNehru Salai, (100 Ft. Road),Koyambedu, Chennai-600 107,Tamil Nadu.",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Nagara.svg",
-                        "leader":"https://en.wikipedia.org/wiki/Vijayakanth"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Indian_Election_Symbol_Nagara.svg/864px-Indian_Election_Symbol_Nagara.svg.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vijaykanth_at_the_Sagaptham_Audio_Launch.jpg/330px-Vijaykanth_at_the_Sagaptham_Audio_Launch.jpg"
                   }
             ]
       },
@@ -569,29 +569,29 @@
                         "name" : "All India Majlis-Ettehadul Muslimeen",
                         "symbol" : "Kite ",
                         "address" : "Darussalam Board, Hyderabad (Telangana)-500001.",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Kite.svg",
-                        "leader":"https://en.wikipedia.org/wiki/File:Asaduddin.jpg"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Indian_Election_Symbol_Kite.svg/600px-Indian_Election_Symbol_Kite.svg.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Asaduddin.jpg/753px-Asaduddin.jpg"
                   },
                   {
                         "name" : "Telangana Rashtra Samith",
                         "symbol" : "Car",
                         "address" : "House No. 8-2-220/110/1/3, Road No.14, Banjara Hills,Hyderabad, Andhra Pradesh.",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Car.jpg",
-                        "leader":"https://en.bharatpedia.org/wiki/File:Kalvakuntla_Chandrashekar_Rao.png"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Indian_Election_Symbol_Car.jpg",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Kalvakuntla_Chandrashekar_Rao.png"
                   },
                   {
                         "name" : "Telugu Desam",
                         "symbol" : "Bicycle",
                         "address" : "Telugu Desam Office, N.T.R. Bhavan,Road No.2, Banjara Hills,Hyderabad-500033 (Andhra Pradesh).",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Cycle.png",
-                        "leader":"https://en.wikipedia.org/wiki/N._Chandrababu_Naidu"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Indian_Election_Symbol_Cycle.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chandrababu_Naidu_2017.jpg/330px-Chandrababu_Naidu_2017.jpg"
                   },
                   {
                         "name" : "Yuvajana Sramika Rythu Congress Party",
                         "symbol" : "Ceiling Fan",
                         "address" : "H.No.8-2-269/S/98, Sagar Society, Road No. 2, Banjara Hills, Hyderabad-500034, Andhra Pradesh.",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_Symbol_Ceiling_Fan.svg",
-                        "leader":"https://en.wikipedia.org/wiki/Y._S._Jagan_Mohan_Reddy"
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Indian_Election_Symbol_Ceiling_Fan.svg/1079px-Indian_Election_Symbol_Ceiling_Fan.svg.png",
+                        "leader":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ys_jagan.png/330px-Ys_jagan.png"
                   }
             ]
       },
@@ -603,7 +603,7 @@
                         "name" : "Indigenous People’s Front of Tripura",
                         "symbol" : "Dao",
                         "address" : "Old Kali Bari Road,Krishnanagar, Agartala 799001,Tripura",
-                        "url":"https://en.wikipedia.org/wiki/File:Indian_Election_symbol_Dao.svg",
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Indian_Election_symbol_Dao.svg/704px-Indian_Election_symbol_Dao.svg.png",
                         "leader":""
                   }
             ]
